@@ -1,0 +1,164 @@
+.nav-item{
+    font-size: 15px;
+    font-weight: 600;
+}
+
+
+.nav-link:hover {
+    color: blueviolet;
+
+}
+
+.txt {
+    font-size: 14px;
+    margin-left: 250px;
+    text-align: start;
+    font-weight: bold;
+}
+.txtdiv{
+    background-color: blueviolet;
+}
+.con{
+    margin-left: 10px;
+    padding-left: 380px;
+}
+.carh1-1{
+    font-weight: bolder;
+    text-align: start;
+    margin-left: 250px;
+}
+.carh1-2{
+    margin-top: 10px;
+    /* height: 193px; */
+}
+
+.carp-1 {
+height: 50px;
+text-align: start;
+font-size: 15px;
+margin-left: 250px;
+}
+
+.carp-2 {
+    margin-bottom: -82px;
+    height: 9px;
+}
+
+.carbton {
+background-color:violet;
+color: whitesmoke;
+border-radius: 30px;
+font-size: 15px;
+width: 190px;
+margin-bottom: 147px;
+font-weight: bold;
+height: 60px;
+margin-left: -583px;
+}
+
+.modelbtn:hover {
+    background-color: rgb(162, 95, 221);
+}
+
+.tgrbtn {
+    border-radius: 39px;
+    /* position: fixed;
+    top: 678px; */
+    margin-left: -61px;
+}
+
+.abtbtn {
+    background-color: rgb(128, 11, 238);
+    color: white;
+    width: 170px;
+    font-weight: bold;
+    font-size: 15px;
+    height: 60px;
+    border-radius: 30px;
+    border: blueviolet 2px solid;
+}
+
+.abtbtn:hover {
+    background-color: white;
+    border-color: blueviolet;
+    color: blueviolet;
+}
+
+.abth3 {
+    color:tomato;
+    font-family:'Abril Fatface', cursive;
+}
+
+.abth6 {
+    color: rgb(43, 107, 226);
+    font-weight: 500;
+    font-size: 18px;
+    font-style: oblique;
+}
+
+.abtp {
+    font-weight: 300;
+    font-family: 'Sevillana', cursive;
+}
+
+.coursesh3 {
+    text-align: center;
+    color: rgb(230, 13, 13);
+    font-weight: 600;
+}
+
+.corspn {
+    color: rgb(236, 17, 17)
+}
+
+.coup {
+    color: black;
+    font-size: 15px;
+    text-align: start;
+    font-weight: 300;
+   font-family: 'Moon Dance',cursive;
+}
+.couh5 {
+    text-align: start;
+    font-size: 20px;
+    color: deeppink;
+}
+
+.coudiv:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.cali {
+    color: rgb(224, 20, 5);
+    margin-left: -196px;
+    font-family: 'Redressed', cursive;
+}
+
+.ispan {
+    color: black;
+    font-size: 12px;
+    text-align: start;
+    font-weight: 700;
+}
+
+.cloi {
+    color: rgb(243, 10, 10);
+    margin-left: -152px;
+    font-family: 'Redressed', cursive;
+}
+
+.grai {
+    color: rgb(233, 85, 85);
+    margin-left: -346px;
+    font-family: 'Redressed', cursive;
+}
+
+.viewspan {
+    color: rgb(226, 43, 150);
+    text-decoration: underline;
+}
+
+.couimg {
+    height: 350px;
+}
